@@ -1,0 +1,16 @@
+* CHDK + Arduino
+
+  [ TODO: English version. ]
+
+------------------------------------------------------------------------
+
+* CHDK + Arduino
+
+  Este es el proyecto de una sensor de barrea láser para disparar una
+  Canon A480.
+
+* Contenido
+
+  + chdk - Scripts para CHDK.
+  + doc - Croquis de alambrado, esquema eléctrico y lista de partes.
+  + src - Sketchbook para el IDE de Arduino.

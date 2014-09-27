@@ -1,4 +1,4 @@
-Disparados Láser USB
+Disparador Láser USB
 ====================
 
 Proyecto presentado en la platica [Open Hardware: Como usarlo en

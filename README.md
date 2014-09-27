@@ -19,9 +19,9 @@ Hardware
 
 ![Prototipo](hardware/breadboard.png "Prototipo")
 
-### Esquematico
+### Esquemático
 
-![Esquematico](hardware/schematic.png "Esquematico")
+![Esquemático](hardware/schematic.png "Esquemático")
 
 Firmware
 --------

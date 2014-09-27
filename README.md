@@ -1,0 +1,45 @@
+Disparados Láser USB
+====================
+
+Este proyecto implementa un sensor de barrera láser con un
+[Arduino](http://arduino.cc) para disparar una [Canon
+A480](http://chdk.wikia.com/wiki/A480) con el firmware
+[CHDK](http://chdk.wikia.com).
+
+Parte de la platica [Open Hardware: Como usarlo en proyectos de
+fotografía y
+automatización](http://speakerdeck.com/manuelrabade/sensor-de-barrea-laser-para-disparar-una-canon-a480)
+impartida en el [TelmexHub](http://www.telmexhub.com.mx/) el 7 de
+diciembre de 2010.
+
+Hardware
+--------
+
+### Placa de pruebas
+
+![Prototipo](hardware/breadboard.png "Prototipo")
+
+### Esquematico
+
+![Esquematico](hardware/schematic.png "Esquematico")
+
+Firmware
+--------
+
+[firmware/arduino/CHDK/CHDK.pde](firmware/arduino/CHDK/CHDK.pde) -
+Sketch para Arduino.
+
+[firmware/chdk/arduino.bas](firmware/chdk/arduino.bas) - Script para
+CHDK.
+
+Autor
+-----
+
+Manuel Rábade <[manuel@rabade.net](mailto:manuel@rabade.net)>
+
+Licencia
+--------
+
+Esta obra está bajo una [licencia de Creative Commons
+Reconocimiento-CompartirIgual 4.0
+Internacional](http://creativecommons.org/licenses/by-sa/4.0/).

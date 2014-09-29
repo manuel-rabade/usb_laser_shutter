@@ -1,8 +1,8 @@
 Disparador Láser USB
 ====================
 
-Proyecto presentado en la platica [Open Hardware: Como usarlo en
-proyectos de fotografía y
+Proyecto didáctico presentado en la platica [Open Hardware: Como usarlo
+en proyectos de fotografía y
 automatización](http://speakerdeck.com/manuelrabade/sensor-de-barrea-laser-para-disparar-una-canon-a480)
 impartida en el [TelmexHub](http://www.telmexhub.com.mx/) el 7 de
 diciembre de 2010.
